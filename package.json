@@ -1,0 +1,43 @@
+{
+  "name": "pro-developer-vscode-theme",
+  "displayName": "Pro Developer VScode Theme",
+  "description": "Official VSCode theme of \"Pro Developer VSCode Theme\"!",
+  "publisher": "ProDeveloperVSCodeTheme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prodeveloper25/Pro-Developer-VSCode-Theme"
+  },
+  "keywords": [
+    "Pro Developer VSCode Theme",
+    "pro developer vscode theme",
+    "PRO DEVELOPER VSCODE THEME",
+    "dark theme",
+    "vscode theme",
+    "vs code theme",
+    "themes",
+    "theme",
+    "color themes",
+    "color theme",
+    "visual studio code theme",
+    "New Theme",
+    "best theme",
+    "top themes",
+    "top theme"
+  ],
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pro Developer VSCode Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pro Developer VSCode Theme-color-theme.json"
+      }
+    ]
+  }
+}
