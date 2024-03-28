@@ -3,7 +3,7 @@
   "displayName": "Pro Developer VScode Theme",
   "description": "Official VSCode theme of \"Pro Developer VSCode Theme\"!",
   "publisher": "ProDeveloperVSCodeTheme",
-  "icon": "/logo.PNG",
+  "icon": "logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/prodeveloper25/Pro-Developer-VSCode-Theme"
