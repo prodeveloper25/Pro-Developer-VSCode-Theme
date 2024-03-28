@@ -31,7 +31,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "./assets/Pro Developer Theme.png",
+  "icon": "./assets/Pro-Developer-Theme.png",
   "contributes": {
     "themes": [
       {
