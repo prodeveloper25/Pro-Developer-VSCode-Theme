@@ -1,16 +1,12 @@
-# pro-developer-vscode-theme README
+# Pro Developer VSCode Theme
 
-## Working with Markdown
+## Author Information
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Hallo, I am ASRATUL HASAN NAHID and I am a Professional Web & Theme Developer with 3 Year Experience in This Field. You can visit my Linkedin Profile to know more about me <a href="https://www.linkedin.com/in/prodeveloper25">ASRATUL HASAN NAHID</a>.
+Thank you for studying about me.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Our Request
 
-## For more information
+If you really like this Theme, then do not forget to give a detailed review. This is not my command, this is your wish
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+**Enjoy This Theme!**
